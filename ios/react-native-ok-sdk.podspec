@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage      = package["homepage"]
   s.license       = package["license"]
   s.requires_arc  = true
-  s.author        = { 'Alex Belets' => 'askii.robotics@gmail.com' }
+  s.author        = { 'DKukushkin' => 'DKukushkin@gmail.com' }
   s.source        = { :git => 'https://github.com/Dkukushkin91/ok-ios-sdk.git', :tag => s.version.to_s }
 
   s.source_files  = 'ios/*.{h,m}'

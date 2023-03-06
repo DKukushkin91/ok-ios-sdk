@@ -49,7 +49,7 @@
   "engines": {
     "node" : ">16.18.0"
   },
-  "author": "Alex Belets",
+  "author": "DKukushkin",
   "license": "MIT",
-  "homepage": "https://github.com/askiiRobotics/react-native-ok-sdk#readme"
+  "homepage": "https://github.com/DKukushkin91/ok-ios-sdk"
 }
