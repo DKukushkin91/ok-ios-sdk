@@ -48,5 +48,8 @@
   },
   "engines": {
     "node" : ">16.18.0"
-  }
+  },
+  "author": "Alex Belets",
+  "license": "MIT",
+  "homepage": "https://github.com/askiiRobotics/react-native-ok-sdk#readme"
 }
